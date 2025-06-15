@@ -21,7 +21,7 @@ A beautifully designed, user-friendly Plant Care Library built with **React.js**
 
 ## 🧭 Live Demo
 
-👉 [Visit Live Site](https://your-netlify-site.netlify.app)
+👉 [Visit Live Site](plantcarelibrary.netlify.apphttps://your-netlify-site.netlify.app)
 
 ---
 
