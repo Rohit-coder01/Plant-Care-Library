@@ -6,7 +6,7 @@ A beautifully designed, user-friendly Plant Care Library built with **React.js**
 
 ## 📸 Screenshots
 
-![Home Page](./screenshots/homepage.png)(https://github.com/Rohit-coder01/Plant-Care-Library/blob/master/src/Screenshot%202025-06-15%20164333.png)
+[![Home Page](./screenshots/homepage.png)](https://raw.githubusercontent.com/Rohit-coder01/Plant-Care-Library/master/src/Screenshot%202025-06-15%20164333.png)
 ![Plant Detail Page](./screenshots/plant-detail.png)
 
 
